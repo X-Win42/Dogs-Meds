@@ -5,7 +5,7 @@ from datetime import date
 # Configuración básica
 # =====================
 st.set_page_config(page_title="Medicaciones perros", page_icon="🐶", layout="centered")
-st.title("🐶 Medicación diaria para mis perros")
+st.title("🐶 Daily Dog Meds")
 
 # =====================
 # Nombres de los perros (editables en la barra lateral)
