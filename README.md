@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23093727/README.md)
 # Medicación diaria para mis perros (Streamlit)
 
 App muy simple que muestra, para **hoy**, qué pastillas y suplementos corresponden a cada perro.
